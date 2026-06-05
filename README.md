@@ -2,6 +2,10 @@
 Built an end-to-end retail analytics solution using Python, SQL, PostgreSQL, and Power BI to analyze customer purchasing behavior, identify revenue-driving segments, evaluate product performance, and deliver data-driven business recommendations through interactive dashboards.
 # Customer Shopping Behavior Analysis
 
+## Project Resources
+
+📊 **Gamma Presentation:** [View Presentation](https://gamma.app/docs/Customer-Shopping-Behavior-Analysis-u4qnaakw2t746ro)
+
 ## Overview
 
 This project analyzes customer shopping behavior using Python, SQL, and Power BI to uncover actionable business insights. The workflow covers the complete data analytics lifecycle, including data loading, exploratory data analysis (EDA), data cleaning, SQL-based business analysis, dashboard development, report generation, and presentation creation.
